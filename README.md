@@ -27,4 +27,4 @@ Ez a projekt volt a "belépőm" a modern fejlesztői eszközök világába. A mu
 
 1. Mivel a projekt nem tartalmaz külső függőségeket:
 2. Töltsd le a fájlokat.
-3. Nyisd meg az index.html-t.
+3. Nyisd meg az "index.html"-t.
