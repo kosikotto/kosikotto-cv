@@ -1,30 +1,32 @@
-🏗️ Alapszintű Reszponzív Weboldal (Native Core)
+# 🏗️ Basic Responsive Website (Native Core)
 
-Egy teljesen az alapoktól (Vanilla stack) felépített weboldal, amelynek elsődleges célja a reszponzív tervezés és a böngészőalapú technológiák mélyebb megismerése volt. Ebben a projektben tudatosan kerültem minden külső könyvtárat, hogy "nyers" kóddal oldjam meg a felmerülő kihívásokat.
+A website built entirely from scratch (Vanilla stack), with the primary goal of gaining a deeper understanding of responsive design and browser-based technologies. In this project, I deliberately avoided all external libraries to solve the emerging challenges using "raw" code.
 
-***
+---
 
-🎯 Tanulási célok és tapasztalatok
+## 🎯 Learning Objectives and Experiences
 
-A fejlesztés során a legnagyobb fókuszt a következő területek kapták:
+During development, the main focus was on the following areas:
 
-1. Reszponzív architektúra: Hogyan épül fel egy oldal, amely minden eszközön megállja a helyét Media Query-k segítségével.
-2. A DOM manipuláció alapjai: Interaktivitás kezelése külső keretrendszerek segítsége nélkül.
-3. Strukturálási kihívások: Saját bőrömön tapasztaltam meg a monolitikus CSS (egy óriási fájl) hátrányait, ami értékes lecke volt a kód karbantarthatóságáról.
+1. **Responsive architecture:** How to build a page that adapts to any device using Media Queries.
+2. **Basics of DOM manipulation:** Handling interactivity without the help of external frameworks.
+3. **Structuring challenges:** Experiencing firsthand the drawbacks of monolithic CSS (one giant file), which provided a valuable lesson in code maintainability.
 
-***
+---
 
-🚀 Technológiai tanulságok
+## 🚀 Technological Takeaways
 
-Ez a projekt volt a "belépőm" a modern fejlesztői eszközök világába. A munka során felismertem, hogy bizonyos komplexitás felett miért elengedhetetlenek az alábbi technológiák:
-1. Tailwind CSS: Az átláthatóbb és modulárisabb stíluskezelésért.
-2. React: A komponensalapú gondolkodás és az újrahasznosíthatóság miatt.
-3. TypeScript: A típusbiztonság és a hibák megelőzése érdekében.
+This project served as my "gateway" into the world of modern development tools. During the process, I realized why the following technologies become essential beyond a certain level of complexity:
 
-***
+* **Tailwind CSS:** For clearer and more modular style management.
+* **React:** For component-based thinking and reusability.
+* **TypeScript:** For type safety and bug prevention.
 
-🛠️ Használat
+---
 
-1. Mivel a projekt nem tartalmaz külső függőségeket:
-2. Töltsd le a fájlokat.
-3. Nyisd meg az "index.html"-t.
+## 🛠️ Usage
+
+Since the project contains no external dependencies, running it is straightforward:
+
+1. Download or clone the repository files.
+2. Open the `index.html` file in your preferred web browser.
